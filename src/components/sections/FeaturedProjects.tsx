@@ -12,7 +12,7 @@ const PROJECTS = [
   {
     title: "TRADO TRADING",
     category: "Fintech Platform",
-    image: "https://images.unsplash.com/photo-1611974717482-482ec9f82d1b?auto=format&fit=crop&q=80&w=1200",
+    image: "/images/trado.png",
     direction: "right" as const,
   },
   {
