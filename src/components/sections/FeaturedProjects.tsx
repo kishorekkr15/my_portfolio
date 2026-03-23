@@ -1,6 +1,5 @@
-import { ProjectCard } from "../projects/ProjectCard"
 import { Reveal } from "../animations/Reveal"
-import { motion } from "framer-motion"
+import { ProjectCard } from "../projects/ProjectCard"
 
 const PROJECTS = [
   {
